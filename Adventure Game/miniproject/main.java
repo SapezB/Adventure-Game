@@ -11,7 +11,7 @@ public class main {
 
     }
     
-    public void CreasdsteWindow(JFrame window){
+    public void CreateWindow(JFrame window){
 
         window.setTitle("Adventure Game");
         window.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
